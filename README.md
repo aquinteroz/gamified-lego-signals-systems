@@ -8,16 +8,8 @@ This repository contains the research data and computational materials associate
 .
 ├── data/
 │   ├── raw/
-│   └── processed/
 ├── notebooks/
 │   └── gamification_analysis_zenodo.ipynb
-├── src/
-├── materials/
-│   ├── activities/
-│   ├── assessments/
-│   └── teaching_guides/
-├── figures/
-├── docs/
 ├── LICENSE
 └── README.md
 ```
@@ -25,12 +17,7 @@ This repository contains the research data and computational materials associate
 ## Contents
 
 - `data/raw/`: original dataset files.
-- `data/processed/`: processed datasets generated during the analysis.
 - `notebooks/`: Jupyter notebooks for data analysis and reproducibility.
-- `src/`: reusable source code.
-- `materials/`: teaching activities, assessments, and instructional guides.
-- `figures/`: figures generated for analysis and publication.
-- `docs/`: supplementary documentation.
 
 ## Getting started
 
