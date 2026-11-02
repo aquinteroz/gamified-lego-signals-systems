@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software using the metadata below and cite the associated research article when available."
+title: "A Gamified LEGO Framework for Teaching Signals and Systems"
+type: software
+authors:
+  - family-names: "Quintero Zea"
+    given-names: "Andrés"
+repository-code: "https://github.com/aquinteroz/gamified-lego-signals-systems"
+license: MIT
+abstract: "Dataset and computational materials associated with a study of a gamified LEGO-based approach to teaching core concepts in Signals and Systems. The repository includes the research dataset, a Jupyter notebook documenting data processing and statistical analyses, generated figures, and a Conda environment specification."
+keywords:
+  - "Signals and Systems"
+  - "Engineering Education"
+  - "Gamification"
+  - "LEGO"
+  - "Active Learning"
+  - "Reproducible Research"
