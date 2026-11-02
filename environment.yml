@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.13
   - jupyterlab
+  - nbconvert
   - ipykernel
   - openpyxl
   - pip
