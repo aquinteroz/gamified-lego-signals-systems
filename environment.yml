@@ -1,4 +1,4 @@
-name: gamified-lego-signals-systems
+name: lego_analysis
 channels:
   - conda-forge
 dependencies:
