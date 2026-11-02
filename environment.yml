@@ -2,7 +2,10 @@ name: gamified-lego-signals-systems
 channels:
   - conda-forge
 dependencies:
-  - python>=3.10,<3.14
+  - python=3.13
+  - jupyterlab
+  - ipykernel
+  - openpyxl
   - pip
   - pip:
       - dabest==2025.10.20
